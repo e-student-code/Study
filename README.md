@@ -6,4 +6,5 @@
 
 #### ✅ Para que serve a linguagem Raku - Começando estudos
 #### ✅ Plano de estudos + projeto prático em Raku
+#### ✅ Raku vs. C lang
 
