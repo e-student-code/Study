@@ -1,9 +1,9 @@
-# Study with IA - Organization 
+## Study with IA - Organization 
 
 ---
 
-## 🎯 Lista de aprendizado:
+### 🎯 Lista de aprendizado:
 
-# ✅ Para que serve a linguagem Raku - Começando estudos
-# ✅ Plano de estudos + projeto prático em Raku
+#### ✅ Para que serve a linguagem Raku - Começando estudos
+#### ✅ Plano de estudos + projeto prático em Raku
 
